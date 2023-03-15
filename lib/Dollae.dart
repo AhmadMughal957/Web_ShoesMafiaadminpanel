@@ -1,0 +1,3 @@
+class dollar{
+  List total=[];
+}
